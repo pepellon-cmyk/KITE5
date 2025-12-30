@@ -1,0 +1,12 @@
+{
+  "lideranca": 0.1,
+  "assiduidade": 0.1,
+  "flexibilidade": 0.1,
+  "teoria": 0.1,
+  "comando": 0.1,
+  "controle": 0.1,
+  "badydrag_esq_dir": 0.1,
+  "water_start": 0.1,
+  "prancha_esq_dir": 0.1,
+  "contra_vento": 0.1
+}
